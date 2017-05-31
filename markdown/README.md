@@ -13,3 +13,7 @@ Github Pages 使用 kramdown，而 Github site 使用 GFM(GitHub Flavored Markdo
 - [HTML tags](html.md)
 - [code](code.md)
 - [dl](dl.md)
+
+
+- [menu](menu.md)
+- [key](key.md)
